@@ -24,7 +24,6 @@ const Container = () => {
     return (
     <div>
       <div className="container">
-        <h1>Tarun's Spotify App</h1>
         <div className="songItemContainer">
                 <div className="songItem">
                     <img src={one} alt="1"/>
